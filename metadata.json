@@ -1,0 +1,8 @@
+{
+  "name": "Remix x8 dashhhh line graph",
+  "description": "Smart SMT factory production dashboard with real-time UPH line graphs, machine telemetry, process overview, and hourly throughput breakdown.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
